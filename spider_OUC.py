@@ -57,11 +57,6 @@ class OUC:
 
         print u'\n学分绩点为:',gpa
 
-
-    # def writeInfo(self,text):
-    #     for items in text:
-    #         pass
-
 if __name__ == '__main__':
     # ouc_stu = OUC()
     print '================ Welcome ===================='
